@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "my-website": {
+      "appLocation": "public_html",
+      "outputLocation": ".",
+      "appName": "my-website",
+      "resourceGroup": "my-website-rg"
+    }
+  }
+}
